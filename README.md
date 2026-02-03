@@ -18,3 +18,14 @@
 - 📚 Interested in **backend development, problem-solving, and clean code**
 - 🎯 Goal: Become a skilled software developer
 
+---
+
+## 🛠️ Skills
+- **Languages:** Python, HTML, CSS, JavaScript (Basics)
+- **Frameworks:** Flask
+- **Tools:** Git, GitHub, VS Code
+- **Styling:** Tailwind CSS
+- **Database:** JSON (learning SQL)
+
+
+
