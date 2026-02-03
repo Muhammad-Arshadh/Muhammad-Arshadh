@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm  Arshadh</h1>
-<h3 align="center">BCA Student | Aspiring Python & Web Developer</h3>
+<h3 align="center">BCA Student | Aspiring Software Developer</h3>
 
 <p align="center">
 📍 Tamil Nadu, India  
