@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner.jpg" alt="Muhammad Arshadh Banner" width="100%" />
+  <img src="Banner1.png" alt="Muhammad Arshadh Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  Arshadh</h1>
