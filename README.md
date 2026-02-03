@@ -15,7 +15,6 @@
 ## 🚀 About Me
 - 🌱 Currently learning **Python, Flask, and Web Development**
 - 💻 Building projects to strengthen my fundamentals
-- 📚 Interested in **backend development, problem-solving, and clean code**
 - 🎯 Goal: Become a skilled software developer
 
 ---
