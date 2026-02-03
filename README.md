@@ -27,5 +27,20 @@
 - **Styling:** Tailwind CSS
 - **Database:** JSON (learning SQL)
 
+---
+
+## 📂 Projects
+
+### 🔹 Number Guessing Game (Python)
+A simple Python number guessing game using loops and conditionals.
+
+[NumGame](https://github.com/Muhammad-Arshadh/NumGame)
+
+---
+
+### 🔹 To-Do App (Flask + Tailwind CSS)
+A dark-mode To-Do application built using Flask and JSON for backend storage.
+
+> More projects coming soon 🚧
 
 
