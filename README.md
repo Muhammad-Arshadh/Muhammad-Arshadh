@@ -43,4 +43,12 @@ A dark-mode To-Do application built using Flask and JSON for backend storage.
 
 > More projects coming soon 🚧
 
+---
+
+## 🤝 Connect With Me
+- 📧 Email: arshadh1369@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-arshadh/
+
+---
+
 
