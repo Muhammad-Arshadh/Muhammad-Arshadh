@@ -31,8 +31,8 @@
 
 ## 📂 Projects
 
-### 🔹 Number Guessing Game (Python)
-A simple Python number guessing game using loops and conditionals.
+### 🔹 Number Guessing Game (JavaScript)
+A simple JavaScript number guessing game using loops and conditionals.
 
 [NumGame](https://github.com/Muhammad-Arshadh/NumGame)
 
